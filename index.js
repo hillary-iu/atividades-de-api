@@ -25,5 +25,4 @@ app.get('//loj/idloj', (req,res) => {
             mensagemErro = "loja não encontrada"
         }
     }
-    }
-})
+});
